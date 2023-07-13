@@ -19,3 +19,7 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the mint and burn function. Click on the "MyToken" contract in the left-hand sidebar, and then click on the "mint" function and add address and value, same with burn funciton. 
 
+
+## Authors
+Contributors names and contact info
+Avrin Kour :- [@Avrin12](https://github.com/avrin12)
